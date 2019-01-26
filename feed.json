@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Teresa Arroyo",
+    "description": "",
+    "home_page_url": "http://teresaarroyo.com",
+    "feed_url": "http://teresaarroyo.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Teresa Arroyo"
+    },
+    "items": [
+        {
+            "id": "http://teresaarroyo.com/paco-cat.html",
+            "url": "http://teresaarroyo.com/paco-cat.html",
+            "title": "Paco Cat",
+            "image": "http://teresaarroyo.com/media/posts/1/IMG_0613.JPG",
+            "author": {
+                "name": "Teresa Arroyo"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-01-26T23:49:38+01:00",
+            "date_modified": "2019-01-26T23:49:38+01:00"
+        }
+    ]
+}
