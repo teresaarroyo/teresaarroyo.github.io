@@ -43,9 +43,9 @@
         {
             "id": "http://teresaarroyo.com/paco-the-cat.html",
             "url": "http://teresaarroyo.com/paco-the-cat.html",
-            "title": "Paco the Cat",
+            "title": "Paco the Cat [collection]",
             "summary": "So this is Paco the CatPaco walksAnd Paco also does some cat&hellip;",
-            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/4/gallery/IMG_0704.JPG\" ><img src=\"http://teresaarroyo.com/media/posts/4/gallery/IMG_0704-thumbnail.JPG\" alt=\"So this is Paco\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">So this is Paco the Cat</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/4/gallery/IMG_0706.JPG\" ><img src=\"http://teresaarroyo.com/media/posts/4/gallery/IMG_0706-thumbnail.JPG\" alt=\"Paco walking\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">Paco walks</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/4/gallery/IMG_0705.JPG\" ><img src=\"http://teresaarroyo.com/media/posts/4/gallery/IMG_0705-thumbnail.JPG\" alt=\"Paco cat yoga\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">And Paco also does some cat yoga, of course</figcaption>\n</figure>\n</div>",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/4/gallery/PACO_Standing.JPG\" ><img src=\"http://teresaarroyo.com/media/posts/4/gallery/PACO_Standing-thumbnail.JPG\" alt=\"So this is Paco\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">So this is Paco the Cat</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/4/gallery/PACO_Walking.JPG\" ><img src=\"http://teresaarroyo.com/media/posts/4/gallery/PACO_Walking-thumbnail.JPG\" alt=\"Paco walking\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">Paco walks</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/4/gallery/PACO_Yoga.JPG\" ><img src=\"http://teresaarroyo.com/media/posts/4/gallery/PACO_Yoga-thumbnail.JPG\" alt=\"Paco cat yoga\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">And Paco also does some cat yoga, of course</figcaption>\n</figure>\n</div>",
             "image": "http://teresaarroyo.com/media/posts/4/IMG_0704.JPG",
             "author": {
                 "name": "Teresa Arroyo"
@@ -53,7 +53,7 @@
             "tags": [
             ],
             "date_published": "2019-01-28T12:06:15+01:00",
-            "date_modified": "2019-01-28T12:29:34+01:00"
+            "date_modified": "2019-03-12T10:07:58+01:00"
         }
     ]
 }
