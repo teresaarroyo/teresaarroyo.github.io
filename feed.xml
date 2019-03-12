@@ -3,42 +3,45 @@
     <title>Teresa Arroyo</title>
     <link href="http://teresaarroyo.com/feed.xml" rel="self" />
     <link href="http://teresaarroyo.com" />
-    <updated>2019-02-01T17:52:07+01:00</updated>
+    <updated>2019-03-12T10:01:59+01:00</updated>
     <author>
         <name>Teresa Arroyo</name>
     </author>
     <id>http://teresaarroyo.com</id>
 
     <entry>
-        <title>Greco-Roman myths and gods</title>
+        <title>Greco-Roman myths and gods [collection]</title>
         <author>
             <name>Teresa Arroyo</name>
         </author>
         <link href="http://teresaarroyo.com/greco-roman-myths-and-gods.html"/>
         <id>http://teresaarroyo.com/greco-roman-myths-and-gods.html</id>
 
-        <updated>2019-01-28T12:17:11+01:00</updated>
+        <updated>2019-03-12T10:01:47+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="http://teresaarroyo.com/media/posts/6/IMG_0734.JPG" alt="" />
-                    Athena - MinervaSafoApolloAphrodite - Venus
+                    Athena - MinervaSafoApolloAphrodite - VenusBacchus - Dionysus
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="http://teresaarroyo.com/media/posts/6/IMG_0734.JPG" alt="" />
                 <div class="gallery"   >
-<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/6/gallery/IMG_0734.JPG" ><img src="http://teresaarroyo.com/media/posts/6/gallery/IMG_0734-thumbnail.JPG" alt="Athena - Minerva" width="240" height="240"></a>
+<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/6/gallery/ROMANGODS_Minerva.JPG" ><img src="http://teresaarroyo.com/media/posts/6/gallery/ROMANGODS_Minerva-thumbnail.JPG" alt="Athena - Minerva" width="240" height="240"></a>
 <figcaption class="gallery-description">Athena - Minerva</figcaption>
 </figure>
-<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/6/gallery/IMG_0736.JPG" ><img src="http://teresaarroyo.com/media/posts/6/gallery/IMG_0736-thumbnail.JPG" alt="Safo" width="240" height="240"></a>
+<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/6/gallery/ROMANGODS_Safo.JPG" ><img src="http://teresaarroyo.com/media/posts/6/gallery/ROMANGODS_Safo-thumbnail.JPG" alt="Safo" width="240" height="240"></a>
 <figcaption class="gallery-description">Safo</figcaption>
 </figure>
-<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/6/gallery/IMG_0751.JPG" ><img src="http://teresaarroyo.com/media/posts/6/gallery/IMG_0751-thumbnail.JPG" alt="Apollo" width="240" height="240"></a>
+<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/6/gallery/ROMANGODS_Apollo.JPG" ><img src="http://teresaarroyo.com/media/posts/6/gallery/ROMANGODS_Apollo-thumbnail.JPG" alt="Apollo" width="240" height="240"></a>
 <figcaption class="gallery-description">Apollo</figcaption>
 </figure>
-<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/6/gallery/IMG_0753.JPG" ><img src="http://teresaarroyo.com/media/posts/6/gallery/IMG_0753-thumbnail.JPG" alt="Aphrodite - Venus" width="240" height="240"></a>
+<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/6/gallery/ROMANGODS_Venus.JPG" ><img src="http://teresaarroyo.com/media/posts/6/gallery/ROMANGODS_Venus-thumbnail.JPG" alt="Aphrodite - Venus" width="240" height="240"></a>
 <figcaption class="gallery-description">Aphrodite - Venus</figcaption>
+</figure>
+<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/6/gallery/ROMANGODS_Bacchus.JPG" ><img src="http://teresaarroyo.com/media/posts/6/gallery/ROMANGODS_Bacchus-thumbnail.JPG" alt="Bacchus - Dionysus" width="240" height="240"></a>
+<figcaption class="gallery-description">Bacchus - Dionysus</figcaption>
 </figure>
 </div>
             ]]>
