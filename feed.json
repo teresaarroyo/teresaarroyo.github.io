@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "http://teresaarroyo.com/ravioli.html",
+            "url": "http://teresaarroyo.com/ravioli.html",
+            "title": "Ravioli",
+            "summary": "I guess goths enjoy their pasta as much as I do",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/7/gallery/RAVIOLI.JPG\" ><img src=\"http://teresaarroyo.com/media/posts/7/gallery/RAVIOLI-thumbnail.JPG\" alt=\"Ravioli\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">I guess goths enjoy their pasta as much as I do</figcaption>\n</figure>\n</div>",
+            "image": "http://teresaarroyo.com/media/posts/7/RAVIOLI.JPG",
+            "author": {
+                "name": "Teresa Arroyo"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-03-12T10:12:16+01:00",
+            "date_modified": "2019-03-12T10:13:50+01:00"
+        },
+        {
             "id": "http://teresaarroyo.com/greco-roman-myths-and-gods.html",
             "url": "http://teresaarroyo.com/greco-roman-myths-and-gods.html",
             "title": "Greco-Roman myths and gods [collection]",
@@ -28,9 +43,9 @@
         {
             "id": "http://teresaarroyo.com/the-tale-of-ohumonoth-and-buh.html",
             "url": "http://teresaarroyo.com/the-tale-of-ohumonoth-and-buh.html",
-            "title": "The tale of Ohumonoth and Buh",
+            "title": "Ohumonoth and Buh [collection]",
             "summary": "This is the tale of Ohumonoth the alchemist and Buh the owl.\"Hmmm...",
-            "content_html": "<p>This is the tale of Ohumonoth the alchemist and Buh the owl.</p>\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/5/gallery/IMG_0433.JPG\" ><img src=\"http://teresaarroyo.com/media/posts/5/gallery/IMG_0433-thumbnail.JPG\" alt=\"First image of Ohumonoth and Buh\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">\"Hmmm... \"</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/5/gallery/IMG_0787.JPG\" ><img src=\"http://teresaarroyo.com/media/posts/5/gallery/IMG_0787-thumbnail.JPG\" alt=\"Ohumonoth and Buh having a rest\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">It’s exhausting to spend the days transforming lead into gold!</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/5/gallery/IMG_0634.JPG\" ><img src=\"http://teresaarroyo.com/media/posts/5/gallery/IMG_0634-thumbnail.JPG\" alt=\"Ohumonoth yawning\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">\"YAAAAAAWN...!\"</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/5/gallery/IMG_0618.JPG\" ><img src=\"http://teresaarroyo.com/media/posts/5/gallery/IMG_0618-thumbnail.JPG\" alt=\"Buh having a bath\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">A very hot bath in a very old bathroom!</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/5/gallery/IMG_0611.JPG\" ><img src=\"http://teresaarroyo.com/media/posts/5/gallery/IMG_0611-thumbnail.JPG\" alt=\"Ohumonoth and Buh having a soup\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">\"Don’t you think this soup tastes like scorched?\"</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/5/gallery/IMG_0656.JPG\" ><img src=\"http://teresaarroyo.com/media/posts/5/gallery/IMG_0656-thumbnail.JPG\" alt=\"Ohumonoth swimming at the sea\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">Looking for ingredients to elaborate potions!</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/5/gallery/IMG_0635.JPG\" ><img src=\"http://teresaarroyo.com/media/posts/5/gallery/IMG_0635-thumbnail.JPG\" alt=\"Buh on a clock\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">\"Cuckoo!\"</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/5/gallery/IMG_0636.JPG\" ><img src=\"http://teresaarroyo.com/media/posts/5/gallery/IMG_0636-thumbnail.JPG\" alt=\"Ohumonoth at work\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">Ohumonoth at work!</figcaption>\n</figure>\n</div>",
+            "content_html": "<p>This is the tale of Ohumonoth the alchemist and Buh the owl.</p>\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/5/gallery/OHUMONOTH_Characters.JPG\" ><img src=\"http://teresaarroyo.com/media/posts/5/gallery/OHUMONOTH_Characters-thumbnail.JPG\" alt=\"First image of Ohumonoth and Buh\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">\"Hmmm... \"</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/5/gallery/OHUMONOTH_Sleeping.JPG\" ><img src=\"http://teresaarroyo.com/media/posts/5/gallery/OHUMONOTH_Sleeping-thumbnail.JPG\" alt=\"Ohumonoth and Buh having a rest\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">It’s exhausting to spend the days transforming lead into gold!</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/5/gallery/OHUMONOTH_Yawn.JPG\" ><img src=\"http://teresaarroyo.com/media/posts/5/gallery/OHUMONOTH_Yawn-thumbnail.JPG\" alt=\"Ohumonoth yawning\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">\"YAAAAAAWN...!\"</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/5/gallery/OHUMONOTH_Bath.JPG\" ><img src=\"http://teresaarroyo.com/media/posts/5/gallery/OHUMONOTH_Bath-thumbnail.JPG\" alt=\"Buh having a bath\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">A very hot bath in a very old bathroom!</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/5/gallery/OHUMONOTH_Lunch.JPG\" ><img src=\"http://teresaarroyo.com/media/posts/5/gallery/OHUMONOTH_Lunch-thumbnail.JPG\" alt=\"Ohumonoth and Buh having a soup\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">\"Don’t you think this soup tastes like scorched?\"</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/5/gallery/OHUMONOTH_Swim.JPG\" ><img src=\"http://teresaarroyo.com/media/posts/5/gallery/OHUMONOTH_Swim-thumbnail.JPG\" alt=\"Ohumonoth swimming at the sea\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">Looking for ingredients to elaborate potions!</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/5/gallery/OHUMONOTH_Clock.JPG\" ><img src=\"http://teresaarroyo.com/media/posts/5/gallery/OHUMONOTH_Clock-thumbnail.JPG\" alt=\"Buh on a clock\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">\"Cuckoo!\"</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/5/gallery/OHUMONOTH_Walk.JPG\" ><img src=\"http://teresaarroyo.com/media/posts/5/gallery/OHUMONOTH_Walk-thumbnail.JPG\" alt=\"Ohumonoth taking a walk\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">\"What a tranquil day!\"</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/5/gallery/OHUMONOTH_Work.JPG\" ><img src=\"http://teresaarroyo.com/media/posts/5/gallery/OHUMONOTH_Work-thumbnail.JPG\" alt=\"Ohumonoth at work\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">Ohumonoth at work!</figcaption>\n</figure>\n</div>",
             "image": "http://teresaarroyo.com/media/posts/5/IMG_0611.JPG",
             "author": {
                 "name": "Teresa Arroyo"
@@ -38,7 +53,7 @@
             "tags": [
             ],
             "date_published": "2019-01-28T12:09:13+01:00",
-            "date_modified": "2019-01-28T18:13:57+01:00"
+            "date_modified": "2019-03-12T10:30:01+01:00"
         },
         {
             "id": "http://teresaarroyo.com/paco-the-cat.html",
