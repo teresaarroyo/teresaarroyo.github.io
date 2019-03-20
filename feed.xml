@@ -3,7 +3,7 @@
     <title>Teresa Arroyo</title>
     <link href="http://teresaarroyo.com/feed.xml" rel="self" />
     <link href="http://teresaarroyo.com" />
-    <updated>2019-03-14T10:01:05+01:00</updated>
+    <updated>2019-03-20T16:48:17+01:00</updated>
     <author>
         <name>Teresa Arroyo</name>
     </author>
@@ -43,11 +43,11 @@
         <link href="http://teresaarroyo.com/greco-roman-myths-and-gods.html"/>
         <id>http://teresaarroyo.com/greco-roman-myths-and-gods.html</id>
 
-        <updated>2019-03-14T09:57:08+01:00</updated>
+        <updated>2019-03-20T16:48:08+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="http://teresaarroyo.com/media/posts/6/IMG_0734.JPG" alt="" />
-                    Athena - MinervaSafoApolloAphrodite - VenusDionysus - Bacchus
+                    Athena - MinervaSafoApolloAphrodite - VenusDionysus - BacchusFabulinus
                 ]]>
             </summary>
         <content type="html">
@@ -68,6 +68,9 @@
 </figure>
 <figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/6/gallery/ROMANGODS_Bacchus.JPG" ><img src="http://teresaarroyo.com/media/posts/6/gallery/ROMANGODS_Bacchus-thumbnail.JPG" alt="Dionysus - Bacchus" width="240" height="240"></a>
 <figcaption class="gallery-description">Dionysus - Bacchus</figcaption>
+</figure>
+<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/6/gallery/ROMANGODS_Fabulinus.JPG" ><img src="http://teresaarroyo.com/media/posts/6/gallery/ROMANGODS_Fabulinus-thumbnail.JPG" alt="Fabulinus" width="240" height="240"></a>
+<figcaption class="gallery-description">Fabulinus</figcaption>
 </figure>
 </div>
             ]]>
