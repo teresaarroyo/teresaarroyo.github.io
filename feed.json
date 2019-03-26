@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "http://teresaarroyo.com/smile-for-the-camera.html",
+            "url": "http://teresaarroyo.com/smile-for-the-camera.html",
+            "title": "Smile for the camera!",
+            "summary": "This is an illustration of my hometown. I took as a reference&hellip;",
+            "content_html": "<p>This is an illustration of my hometown. I took as a reference a photo from... 1945...? 1944...? Or maybe before. It was during the Spanish post war.</p>\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/8/gallery/PHOTO.JPG\" ><img src=\"http://teresaarroyo.com/media/posts/8/gallery/PHOTO-thumbnail.JPG\" alt=\"Five girls from my hometown\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">Smile for the camera!</figcaption>\n</figure>\n</div>",
+            "image": "http://teresaarroyo.com/media/posts/8/PHOTO.JPG",
+            "author": {
+                "name": "Teresa Arroyo"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-03-26T09:38:36+01:00",
+            "date_modified": "2019-03-26T09:38:36+01:00"
+        },
+        {
             "id": "http://teresaarroyo.com/ravioli.html",
             "url": "http://teresaarroyo.com/ravioli.html",
             "title": "Ravioli",
