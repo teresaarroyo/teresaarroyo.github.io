@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "http://teresaarroyo.com/hello-sailor.html",
+            "url": "http://teresaarroyo.com/hello-sailor.html",
+            "title": "Hello, sailor!",
+            "summary": "Hello, Sailor! ;)",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/9/gallery/SAILOR.JPG\" ><img src=\"http://teresaarroyo.com/media/posts/9/gallery/SAILOR-thumbnail.JPG\" alt=\"A sailor\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">Hello, Sailor! ;)</figcaption>\n</figure>\n</div>",
+            "image": "http://teresaarroyo.com/media/posts/9/SAILOR.JPG",
+            "author": {
+                "name": "Teresa Arroyo"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-04-08T11:53:10+02:00",
+            "date_modified": "2019-04-08T11:53:10+02:00"
+        },
+        {
             "id": "http://teresaarroyo.com/smile-for-the-camera.html",
             "url": "http://teresaarroyo.com/smile-for-the-camera.html",
             "title": "Smile for the camera!",
