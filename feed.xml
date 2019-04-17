@@ -3,33 +3,37 @@
     <title>Teresa Arroyo</title>
     <link href="http://teresaarroyo.com/feed.xml" rel="self" />
     <link href="http://teresaarroyo.com" />
-    <updated>2019-04-08T11:56:42+02:00</updated>
+    <updated>2019-04-17T11:08:04+02:00</updated>
     <author>
         <name>Teresa Arroyo</name>
     </author>
     <id>http://teresaarroyo.com</id>
 
     <entry>
-        <title>Hello, sailor!</title>
+        <title>Colorful compositions [collection]</title>
         <author>
             <name>Teresa Arroyo</name>
         </author>
-        <link href="http://teresaarroyo.com/hello-sailor.html"/>
-        <id>http://teresaarroyo.com/hello-sailor.html</id>
+        <link href="http://teresaarroyo.com/colorful-compositions-collection.html"/>
+        <id>http://teresaarroyo.com/colorful-compositions-collection.html</id>
 
-        <updated>2019-04-08T11:53:10+02:00</updated>
+        <updated>2019-04-17T11:04:48+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://teresaarroyo.com/media/posts/9/SAILOR.JPG" alt="" />
-                    Hello, Sailor! ;)
+                        <img src="http://teresaarroyo.com/media/posts/10/COLORFUL_Flowers.jpg" alt="Colorful compositions" />
+                    Some colorful illustrations in Kidlit StileWhat a wonderful lunch!The rise of the&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://teresaarroyo.com/media/posts/9/SAILOR.JPG" alt="" />
-                <div class="gallery"   >
-<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/9/gallery/SAILOR.JPG" ><img src="http://teresaarroyo.com/media/posts/9/gallery/SAILOR-thumbnail.JPG" alt="A sailor" width="240" height="240"></a>
-<figcaption class="gallery-description">Hello, Sailor! ;)</figcaption>
+                    <img src="http://teresaarroyo.com/media/posts/10/COLORFUL_Flowers.jpg" alt="Colorful compositions" />
+                <p>Some colorful illustrations in Kidlit Stile</p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/10/gallery/COLORFUL_Flowers.jpg" ><img src="http://teresaarroyo.com/media/posts/10/gallery/COLORFUL_Flowers-thumbnail.jpg" alt="Flowers and bee" width="240" height="240"></a>
+<figcaption class="gallery-description">What a wonderful lunch!</figcaption>
+</figure>
+<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/10/gallery/COLORFUL_Fishes.jpg" ><img src="http://teresaarroyo.com/media/posts/10/gallery/COLORFUL_Fishes-thumbnail.jpg" alt="Fishes and jellyfishes" width="240" height="240"></a>
+<figcaption class="gallery-description">The rise of the jellyfishes</figcaption>
 </figure>
 </div>
             ]]>
