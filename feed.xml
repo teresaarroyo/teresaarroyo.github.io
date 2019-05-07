@@ -3,12 +3,38 @@
     <title>Teresa Arroyo</title>
     <link href="http://teresaarroyo.com/feed.xml" rel="self" />
     <link href="http://teresaarroyo.com" />
-    <updated>2019-04-17T11:08:04+02:00</updated>
+    <updated>2019-05-07T11:03:22+02:00</updated>
     <author>
         <name>Teresa Arroyo</name>
     </author>
     <id>http://teresaarroyo.com</id>
 
+    <entry>
+        <title>Book Day</title>
+        <author>
+            <name>Teresa Arroyo</name>
+        </author>
+        <link href="http://teresaarroyo.com/book-day.html"/>
+        <id>http://teresaarroyo.com/book-day.html</id>
+
+        <updated>2019-05-07T11:02:16+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="http://teresaarroyo.com/media/posts/11/BOOK.jpg" alt="Girl with a book" />
+                    Happy Book Day!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://teresaarroyo.com/media/posts/11/BOOK.jpg" alt="Girl with a book" />
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/11/gallery/BOOK.jpg" ><img src="http://teresaarroyo.com/media/posts/11/gallery/BOOK-thumbnail.jpg" alt="Girl with a book" width="240" height="240"></a>
+<figcaption class="gallery-description">Happy Book Day!</figcaption>
+</figure>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Colorful compositions [collection]</title>
         <author>

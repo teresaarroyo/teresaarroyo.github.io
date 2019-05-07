@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "http://teresaarroyo.com/book-day.html",
+            "url": "http://teresaarroyo.com/book-day.html",
+            "title": "Book Day",
+            "summary": "Happy Book Day!",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/11/gallery/BOOK.jpg\" ><img src=\"http://teresaarroyo.com/media/posts/11/gallery/BOOK-thumbnail.jpg\" alt=\"Girl with a book\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">Happy Book Day!</figcaption>\n</figure>\n</div>",
+            "image": "http://teresaarroyo.com/media/posts/11/BOOK.jpg",
+            "author": {
+                "name": "Teresa Arroyo"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-05-07T11:02:16+02:00",
+            "date_modified": "2019-05-07T11:02:16+02:00"
+        },
+        {
             "id": "http://teresaarroyo.com/colorful-compositions-collection.html",
             "url": "http://teresaarroyo.com/colorful-compositions-collection.html",
             "title": "Colorful compositions [collection]",
