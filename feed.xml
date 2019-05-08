@@ -3,7 +3,7 @@
     <title>Teresa Arroyo</title>
     <link href="http://teresaarroyo.com/feed.xml" rel="self" />
     <link href="http://teresaarroyo.com" />
-    <updated>2019-05-07T11:03:22+02:00</updated>
+    <updated>2019-05-08T16:38:27+02:00</updated>
     <author>
         <name>Teresa Arroyo</name>
     </author>
@@ -43,7 +43,7 @@
         <link href="http://teresaarroyo.com/colorful-compositions-collection.html"/>
         <id>http://teresaarroyo.com/colorful-compositions-collection.html</id>
 
-        <updated>2019-04-17T11:04:48+02:00</updated>
+        <updated>2019-05-08T16:38:16+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="http://teresaarroyo.com/media/posts/10/COLORFUL_Flowers.jpg" alt="Colorful compositions" />
@@ -60,6 +60,9 @@
 </figure>
 <figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/10/gallery/COLORFUL_Fishes.jpg" ><img src="http://teresaarroyo.com/media/posts/10/gallery/COLORFUL_Fishes-thumbnail.jpg" alt="Fishes and jellyfishes" width="240" height="240"></a>
 <figcaption class="gallery-description">The rise of the jellyfishes</figcaption>
+</figure>
+<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/10/gallery/COLORFUL_Island.jpg" ><img src="http://teresaarroyo.com/media/posts/10/gallery/COLORFUL_Island-thumbnail.jpg" alt="Island with trees and ducks" width="240" height="240"></a>
+<figcaption class="gallery-description">Cuack, cuack!</figcaption>
 </figure>
 </div>
             ]]>
