@@ -3,12 +3,44 @@
     <title>Teresa Arroyo</title>
     <link href="http://teresaarroyo.com/feed.xml" rel="self" />
     <link href="http://teresaarroyo.com" />
-    <updated>2019-06-10T17:08:50+02:00</updated>
+    <updated>2019-06-25T19:20:07+02:00</updated>
     <author>
         <name>Teresa Arroyo</name>
     </author>
     <id>http://teresaarroyo.com</id>
 
+    <entry>
+        <title>The White Cat [Collection]</title>
+        <author>
+            <name>Teresa Arroyo</name>
+        </author>
+        <link href="http://teresaarroyo.com/the-white-cat-collection.html"/>
+        <id>http://teresaarroyo.com/the-white-cat-collection.html</id>
+
+        <updated>2019-06-25T19:19:32+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="http://teresaarroyo.com/media/posts/13/WHITECAT_Rug.jpg" alt="The white cat on a rug" />
+                    The white cat on a rugThe white cat yawningThe white cat climbing&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://teresaarroyo.com/media/posts/13/WHITECAT_Rug.jpg" alt="The white cat on a rug" />
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/13/gallery/WHITECAT_Rug.jpg" ><img src="http://teresaarroyo.com/media/posts/13/gallery/WHITECAT_Rug-thumbnail.jpg" alt="The white cat on a rug" width="240" height="240"></a>
+<figcaption class="gallery-description">The white cat on a rug</figcaption>
+</figure>
+<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/13/gallery/WHITECAT_Wallpaper.jpg" ><img src="http://teresaarroyo.com/media/posts/13/gallery/WHITECAT_Wallpaper-thumbnail.jpg" alt="The white cat yawning" width="240" height="240"></a>
+<figcaption class="gallery-description">The white cat yawning</figcaption>
+</figure>
+<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/13/gallery/WHITECAT_Curtain.jpg" ><img src="http://teresaarroyo.com/media/posts/13/gallery/WHITECAT_Curtain-thumbnail.jpg" alt="The white cat climbing a curtain" width="240" height="240"></a>
+<figcaption class="gallery-description">The white cat climbing a curtain</figcaption>
+</figure>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Instagram Prompts [collection]</title>
         <author>

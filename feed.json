@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "http://teresaarroyo.com/the-white-cat-collection.html",
+            "url": "http://teresaarroyo.com/the-white-cat-collection.html",
+            "title": "The White Cat [Collection]",
+            "summary": "The white cat on a rugThe white cat yawningThe white cat climbing&hellip;",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/13/gallery/WHITECAT_Rug.jpg\" ><img src=\"http://teresaarroyo.com/media/posts/13/gallery/WHITECAT_Rug-thumbnail.jpg\" alt=\"The white cat on a rug\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">The white cat on a rug</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/13/gallery/WHITECAT_Wallpaper.jpg\" ><img src=\"http://teresaarroyo.com/media/posts/13/gallery/WHITECAT_Wallpaper-thumbnail.jpg\" alt=\"The white cat yawning\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">The white cat yawning</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/13/gallery/WHITECAT_Curtain.jpg\" ><img src=\"http://teresaarroyo.com/media/posts/13/gallery/WHITECAT_Curtain-thumbnail.jpg\" alt=\"The white cat climbing a curtain\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">The white cat climbing a curtain</figcaption>\n</figure>\n</div>",
+            "image": "http://teresaarroyo.com/media/posts/13/WHITECAT_Rug.jpg",
+            "author": {
+                "name": "Teresa Arroyo"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-06-25T19:19:32+02:00",
+            "date_modified": "2019-06-25T19:19:32+02:00"
+        },
+        {
             "id": "http://teresaarroyo.com/instagram-prompts-collection.html",
             "url": "http://teresaarroyo.com/instagram-prompts-collection.html",
             "title": "Instagram Prompts [collection]",
