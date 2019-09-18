@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "http://teresaarroyo.com/rainy-day.html",
+            "url": "http://teresaarroyo.com/rainy-day.html",
+            "title": "Rainy day",
+            "summary": "Rainy day - Self portrait",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/15/gallery/RAIN.jpg\" ><img src=\"http://teresaarroyo.com/media/posts/15/gallery/RAIN-thumbnail.jpg\" alt=\"Rainy day - Self portrait\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">Rainy day - Self portrait</figcaption>\n</figure>\n</div>",
+            "image": "http://teresaarroyo.com/media/posts/15/RAIN.jpg",
+            "author": {
+                "name": "Teresa Arroyo"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-09-18T10:59:20+02:00",
+            "date_modified": "2019-09-18T10:59:46+02:00"
+        },
+        {
             "id": "http://teresaarroyo.com/a-little-band.html",
             "url": "http://teresaarroyo.com/a-little-band.html",
             "title": "A little band",
@@ -144,21 +159,6 @@
             ],
             "date_published": "2019-01-28T12:09:13+01:00",
             "date_modified": "2019-03-14T10:00:58+01:00"
-        },
-        {
-            "id": "http://teresaarroyo.com/paco-the-cat.html",
-            "url": "http://teresaarroyo.com/paco-the-cat.html",
-            "title": "Paco the Cat [collection]",
-            "summary": "So this is Paco the CatPaco walksAnd Paco also does some cat&hellip;",
-            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/4/gallery/PACO_Standing.JPG\" ><img src=\"http://teresaarroyo.com/media/posts/4/gallery/PACO_Standing-thumbnail.JPG\" alt=\"So this is Paco\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">So this is Paco the Cat</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/4/gallery/PACO_Walking.JPG\" ><img src=\"http://teresaarroyo.com/media/posts/4/gallery/PACO_Walking-thumbnail.JPG\" alt=\"Paco walking\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">Paco walks</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/4/gallery/PACO_Yoga.JPG\" ><img src=\"http://teresaarroyo.com/media/posts/4/gallery/PACO_Yoga-thumbnail.JPG\" alt=\"Paco cat yoga\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">And Paco also does some cat yoga, of course</figcaption>\n</figure>\n</div>",
-            "image": "http://teresaarroyo.com/media/posts/4/IMG_0704.JPG",
-            "author": {
-                "name": "Teresa Arroyo"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-01-28T12:06:15+01:00",
-            "date_modified": "2019-03-12T10:07:58+01:00"
         }
     ]
 }

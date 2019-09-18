@@ -3,12 +3,38 @@
     <title>Teresa Arroyo</title>
     <link href="http://teresaarroyo.com/feed.xml" rel="self" />
     <link href="http://teresaarroyo.com" />
-    <updated>2019-09-17T10:48:11+02:00</updated>
+    <updated>2019-09-18T10:59:53+02:00</updated>
     <author>
         <name>Teresa Arroyo</name>
     </author>
     <id>http://teresaarroyo.com</id>
 
+    <entry>
+        <title>Rainy day</title>
+        <author>
+            <name>Teresa Arroyo</name>
+        </author>
+        <link href="http://teresaarroyo.com/rainy-day.html"/>
+        <id>http://teresaarroyo.com/rainy-day.html</id>
+
+        <updated>2019-09-18T10:59:46+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="http://teresaarroyo.com/media/posts/15/RAIN.jpg" alt="Rainy day - Self portrait" />
+                    Rainy day - Self portrait
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://teresaarroyo.com/media/posts/15/RAIN.jpg" alt="Rainy day - Self portrait" />
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/15/gallery/RAIN.jpg" ><img src="http://teresaarroyo.com/media/posts/15/gallery/RAIN-thumbnail.jpg" alt="Rainy day - Self portrait" width="240" height="240"></a>
+<figcaption class="gallery-description">Rainy day - Self portrait</figcaption>
+</figure>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>A little band</title>
         <author>
@@ -297,38 +323,6 @@
 </figure>
 <figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/5/gallery/OHUMONOTH_Work.JPG" ><img src="http://teresaarroyo.com/media/posts/5/gallery/OHUMONOTH_Work-thumbnail.JPG" alt="Ohumonoth at work" width="240" height="240"></a>
 <figcaption class="gallery-description">Ohumonoth at work!</figcaption>
-</figure>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Paco the Cat [collection]</title>
-        <author>
-            <name>Teresa Arroyo</name>
-        </author>
-        <link href="http://teresaarroyo.com/paco-the-cat.html"/>
-        <id>http://teresaarroyo.com/paco-the-cat.html</id>
-
-        <updated>2019-03-12T10:07:58+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="http://teresaarroyo.com/media/posts/4/IMG_0704.JPG" alt="" />
-                    So this is Paco the CatPaco walksAnd Paco also does some cat&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="http://teresaarroyo.com/media/posts/4/IMG_0704.JPG" alt="" />
-                <div class="gallery"   >
-<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/4/gallery/PACO_Standing.JPG" ><img src="http://teresaarroyo.com/media/posts/4/gallery/PACO_Standing-thumbnail.JPG" alt="So this is Paco" width="240" height="240"></a>
-<figcaption class="gallery-description">So this is Paco the Cat</figcaption>
-</figure>
-<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/4/gallery/PACO_Walking.JPG" ><img src="http://teresaarroyo.com/media/posts/4/gallery/PACO_Walking-thumbnail.JPG" alt="Paco walking" width="240" height="240"></a>
-<figcaption class="gallery-description">Paco walks</figcaption>
-</figure>
-<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/4/gallery/PACO_Yoga.JPG" ><img src="http://teresaarroyo.com/media/posts/4/gallery/PACO_Yoga-thumbnail.JPG" alt="Paco cat yoga" width="240" height="240"></a>
-<figcaption class="gallery-description">And Paco also does some cat yoga, of course</figcaption>
 </figure>
 </div>
             ]]>
