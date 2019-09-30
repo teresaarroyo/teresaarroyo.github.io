@@ -3,12 +3,39 @@
     <title>Teresa Arroyo</title>
     <link href="http://teresaarroyo.com/feed.xml" rel="self" />
     <link href="http://teresaarroyo.com" />
-    <updated>2019-09-18T10:59:53+02:00</updated>
+    <updated>2019-09-30T16:37:51+02:00</updated>
     <author>
         <name>Teresa Arroyo</name>
     </author>
     <id>http://teresaarroyo.com</id>
 
+    <entry>
+        <title>Airs and Graces</title>
+        <author>
+            <name>Teresa Arroyo</name>
+        </author>
+        <link href="http://teresaarroyo.com/airs-and-graces.html"/>
+        <id>http://teresaarroyo.com/airs-and-graces.html</id>
+
+        <updated>2019-09-30T16:37:43+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="http://teresaarroyo.com/media/posts/16/LADIES.jpg" alt="" />
+                    Characters from a book I read some time ago.Airs and Graces
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://teresaarroyo.com/media/posts/16/LADIES.jpg" alt="" />
+                <p>Characters from a book I read some time ago.</p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/16/gallery/LADIES.jpg" ><img src="http://teresaarroyo.com/media/posts/16/gallery/LADIES-thumbnail.jpg" alt="Three ladies" width="240" height="240"></a>
+<figcaption class="gallery-description">Airs and Graces</figcaption>
+</figure>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Rainy day</title>
         <author>
@@ -272,57 +299,6 @@
 </figure>
 <figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/6/gallery/ROMANGODS_Fabulinus.JPG" ><img src="http://teresaarroyo.com/media/posts/6/gallery/ROMANGODS_Fabulinus-thumbnail.JPG" alt="Fabulinus" width="240" height="240"></a>
 <figcaption class="gallery-description">Fabulinus</figcaption>
-</figure>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Ohumonoth and Buh [collection]</title>
-        <author>
-            <name>Teresa Arroyo</name>
-        </author>
-        <link href="http://teresaarroyo.com/the-tale-of-ohumonoth-and-buh.html"/>
-        <id>http://teresaarroyo.com/the-tale-of-ohumonoth-and-buh.html</id>
-
-        <updated>2019-03-14T10:00:58+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="http://teresaarroyo.com/media/posts/5/IMG_0611.JPG" alt="" />
-                    This is the tale of Ohumonoth the alchemist and Buh the owl."Hmmm...
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="http://teresaarroyo.com/media/posts/5/IMG_0611.JPG" alt="" />
-                <p>This is the tale of Ohumonoth the alchemist and Buh the owl.</p>
-<div class="gallery"   >
-<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/5/gallery/OHUMONOTH_Characters.JPG" ><img src="http://teresaarroyo.com/media/posts/5/gallery/OHUMONOTH_Characters-thumbnail.JPG" alt="First image of Ohumonoth and Buh" width="240" height="240"></a>
-<figcaption class="gallery-description">"Hmmm... "</figcaption>
-</figure>
-<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/5/gallery/OHUMONOTH_Sleeping.JPG" ><img src="http://teresaarroyo.com/media/posts/5/gallery/OHUMONOTH_Sleeping-thumbnail.JPG" alt="Ohumonoth and Buh having a rest" width="240" height="240"></a>
-<figcaption class="gallery-description">It’s exhausting to spend the days transforming lead into gold!</figcaption>
-</figure>
-<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/5/gallery/OHUMONOTH_Yawn.JPG" ><img src="http://teresaarroyo.com/media/posts/5/gallery/OHUMONOTH_Yawn-thumbnail.JPG" alt="Ohumonoth yawning" width="240" height="240"></a>
-<figcaption class="gallery-description">"YAAAAAAWN...!"</figcaption>
-</figure>
-<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/5/gallery/OHUMONOTH_Bath.JPG" ><img src="http://teresaarroyo.com/media/posts/5/gallery/OHUMONOTH_Bath-thumbnail.JPG" alt="Buh having a bath" width="240" height="240"></a>
-<figcaption class="gallery-description">A very hot bath in a very old bathroom!</figcaption>
-</figure>
-<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/5/gallery/OHUMONOTH_Lunch.JPG" ><img src="http://teresaarroyo.com/media/posts/5/gallery/OHUMONOTH_Lunch-thumbnail.JPG" alt="Ohumonoth and Buh having a soup" width="240" height="240"></a>
-<figcaption class="gallery-description">"Don’t you think this soup tastes like scorched?"</figcaption>
-</figure>
-<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/5/gallery/OHUMONOTH_Swim.JPG" ><img src="http://teresaarroyo.com/media/posts/5/gallery/OHUMONOTH_Swim-thumbnail.JPG" alt="Ohumonoth swimming at the sea" width="240" height="240"></a>
-<figcaption class="gallery-description">Looking for ingredients to elaborate potions!</figcaption>
-</figure>
-<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/5/gallery/OHUMONOTH_Clock.JPG" ><img src="http://teresaarroyo.com/media/posts/5/gallery/OHUMONOTH_Clock-thumbnail.JPG" alt="Buh on a clock" width="240" height="240"></a>
-<figcaption class="gallery-description">"Cuckoo!"</figcaption>
-</figure>
-<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/5/gallery/OHUMONOTH_Walk.JPG" ><img src="http://teresaarroyo.com/media/posts/5/gallery/OHUMONOTH_Walk-thumbnail.JPG" alt="Ohumonoth taking a walk" width="240" height="240"></a>
-<figcaption class="gallery-description">"What a tranquil day!"</figcaption>
-</figure>
-<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/5/gallery/OHUMONOTH_Work.JPG" ><img src="http://teresaarroyo.com/media/posts/5/gallery/OHUMONOTH_Work-thumbnail.JPG" alt="Ohumonoth at work" width="240" height="240"></a>
-<figcaption class="gallery-description">Ohumonoth at work!</figcaption>
 </figure>
 </div>
             ]]>
