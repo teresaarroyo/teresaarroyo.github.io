@@ -3,12 +3,98 @@
     <title>Teresa Arroyo</title>
     <link href="http://teresaarroyo.com/feed.xml" rel="self" />
     <link href="http://teresaarroyo.com" />
-    <updated>2019-09-30T16:37:51+02:00</updated>
+    <updated>2019-11-19T13:50:20+01:00</updated>
     <author>
         <name>Teresa Arroyo</name>
     </author>
     <id>http://teresaarroyo.com</id>
 
+    <entry>
+        <title>Landscapes [collection in progress]</title>
+        <author>
+            <name>Teresa Arroyo</name>
+        </author>
+        <link href="http://teresaarroyo.com/landscapes-collection-in-progress.html"/>
+        <id>http://teresaarroyo.com/landscapes-collection-in-progress.html</id>
+
+        <updated>2019-11-19T13:41:58+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="http://teresaarroyo.com/media/posts/19/LANDSCAPES_Houses_red.jpg" alt="" />
+                    European houses
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://teresaarroyo.com/media/posts/19/LANDSCAPES_Houses_red.jpg" alt="" />
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/19/gallery/LANDSCAPES_Houses.jpg" ><img src="http://teresaarroyo.com/media/posts/19/gallery/LANDSCAPES_Houses-thumbnail.jpg" alt="European houses" width="240" height="240"></a>
+<figcaption class="gallery-description">European houses</figcaption>
+</figure>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Hello, earthlings!</title>
+        <author>
+            <name>Teresa Arroyo</name>
+        </author>
+        <link href="http://teresaarroyo.com/hello-earthlings.html"/>
+        <id>http://teresaarroyo.com/hello-earthlings.html</id>
+
+        <updated>2019-11-19T13:35:12+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="http://teresaarroyo.com/media/posts/18/SCIFI.jpg" alt="" />
+                    A just for fun sixties-sci-fi portraitAstronaut portrait
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://teresaarroyo.com/media/posts/18/SCIFI.jpg" alt="" />
+                A just for fun sixties-sci-fi portrait
+<div class="gallery"   >
+<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/18/gallery/SCIFI.jpg" ><img src="http://teresaarroyo.com/media/posts/18/gallery/SCIFI-thumbnail.jpg" alt="Astronaut portrait" width="240" height="240"></a>
+<figcaption class="gallery-description">Astronaut portrait</figcaption>
+</figure>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Watercolor [collection]</title>
+        <author>
+            <name>Teresa Arroyo</name>
+        </author>
+        <link href="http://teresaarroyo.com/watercolor-collection.html"/>
+        <id>http://teresaarroyo.com/watercolor-collection.html</id>
+
+        <updated>2019-11-19T13:24:57+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="http://teresaarroyo.com/media/posts/17/WATERCOLOR_Cats.jpg" alt="" />
+                    Sometimes I also like to paint with traditional techniques!CatsDancersGirl
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://teresaarroyo.com/media/posts/17/WATERCOLOR_Cats.jpg" alt="" />
+                <p>Sometimes I also like to paint with traditional techniques!</p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/17/gallery/WATERCOLOR_Cats.jpg" ><img src="http://teresaarroyo.com/media/posts/17/gallery/WATERCOLOR_Cats-thumbnail.jpg" alt="Cats" width="240" height="240"></a>
+<figcaption class="gallery-description">Cats</figcaption>
+</figure>
+<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/17/gallery/WATERCOLOR_Dancers.jpg" ><img src="http://teresaarroyo.com/media/posts/17/gallery/WATERCOLOR_Dancers-thumbnail.jpg" alt="Dancers" width="240" height="240"></a>
+<figcaption class="gallery-description">Dancers</figcaption>
+</figure>
+<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/17/gallery/WATERCOLOR_Girl.jpg" ><img src="http://teresaarroyo.com/media/posts/17/gallery/WATERCOLOR_Girl-thumbnail.jpg" alt="Girl" width="240" height="240"></a>
+<figcaption class="gallery-description">Girl</figcaption>
+</figure>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Airs and Graces</title>
         <author>
@@ -44,16 +130,16 @@
         <link href="http://teresaarroyo.com/rainy-day.html"/>
         <id>http://teresaarroyo.com/rainy-day.html</id>
 
-        <updated>2019-09-18T10:59:46+02:00</updated>
+        <updated>2019-11-19T13:25:05+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://teresaarroyo.com/media/posts/15/RAIN.jpg" alt="Rainy day - Self portrait" />
+                        <img src="http://teresaarroyo.com/media/posts/15/RAIN.jpg" alt="" />
                     Rainy day - Self portrait
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://teresaarroyo.com/media/posts/15/RAIN.jpg" alt="Rainy day - Self portrait" />
+                    <img src="http://teresaarroyo.com/media/posts/15/RAIN.jpg" alt="" />
                 <div class="gallery"   >
 <figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/15/gallery/RAIN.jpg" ><img src="http://teresaarroyo.com/media/posts/15/gallery/RAIN-thumbnail.jpg" alt="Rainy day - Self portrait" width="240" height="240"></a>
 <figcaption class="gallery-description">Rainy day - Self portrait</figcaption>
@@ -97,16 +183,16 @@
         <link href="http://teresaarroyo.com/the-white-cat-collection.html"/>
         <id>http://teresaarroyo.com/the-white-cat-collection.html</id>
 
-        <updated>2019-06-25T19:19:32+02:00</updated>
+        <updated>2019-11-19T13:22:17+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://teresaarroyo.com/media/posts/13/WHITECAT_Rug.jpg" alt="The white cat on a rug" />
+                        <img src="http://teresaarroyo.com/media/posts/13/WHITECAT_Rug.jpg" alt="" />
                     The white cat on a rugThe white cat yawningThe white cat climbing&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://teresaarroyo.com/media/posts/13/WHITECAT_Rug.jpg" alt="The white cat on a rug" />
+                    <img src="http://teresaarroyo.com/media/posts/13/WHITECAT_Rug.jpg" alt="" />
                 <div class="gallery"   >
 <figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/13/gallery/WHITECAT_Rug.jpg" ><img src="http://teresaarroyo.com/media/posts/13/gallery/WHITECAT_Rug-thumbnail.jpg" alt="The white cat on a rug" width="240" height="240"></a>
 <figcaption class="gallery-description">The white cat on a rug</figcaption>
@@ -122,36 +208,6 @@
         </content>
     </entry>
     <entry>
-        <title>Instagram Prompts [collection]</title>
-        <author>
-            <name>Teresa Arroyo</name>
-        </author>
-        <link href="http://teresaarroyo.com/instagram-prompts-collection.html"/>
-        <id>http://teresaarroyo.com/instagram-prompts-collection.html</id>
-
-        <updated>2019-06-10T17:08:44+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="http://teresaarroyo.com/media/posts/12/PROMPT_Elf.jpg" alt="Elf enchanting a dagger" />
-                    I'm currently working on this collection. I asked my Instagram friends to propose&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="http://teresaarroyo.com/media/posts/12/PROMPT_Elf.jpg" alt="Elf enchanting a dagger" />
-                I'm currently working on this collection. I asked my Instagram friends to propose topics to draw and this is the result.
-<div class="gallery"   >
-<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/12/gallery/PROMPT_Elf.jpg" ><img src="http://teresaarroyo.com/media/posts/12/gallery/PROMPT_Elf-thumbnail.jpg" alt="Elf enchanting a dagger" width="240" height="240"></a>
-<figcaption class="gallery-description">Elf enchanting a dagger</figcaption>
-</figure>
-<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/12/gallery/PROMPT_Sunflowers.jpg" ><img src="http://teresaarroyo.com/media/posts/12/gallery/PROMPT_Sunflowers-thumbnail.jpg" alt="Funny scary skeleton" width="240" height="240"></a>
-<figcaption class="gallery-description">Funny scary skeleton</figcaption>
-</figure>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Book Day</title>
         <author>
             <name>Teresa Arroyo</name>
@@ -159,17 +215,18 @@
         <link href="http://teresaarroyo.com/book-day.html"/>
         <id>http://teresaarroyo.com/book-day.html</id>
 
-        <updated>2019-05-07T11:02:16+02:00</updated>
+        <updated>2019-11-19T13:23:41+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="http://teresaarroyo.com/media/posts/11/BOOK.jpg" alt="Girl with a book" />
-                    Happy Book Day!
+                    Illustration for the day after the book day.Happy Book Day!
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="http://teresaarroyo.com/media/posts/11/BOOK.jpg" alt="Girl with a book" />
-                <div class="gallery"   >
+                <p>Illustration for the day after the book day.</p>
+<div class="gallery"   >
 <figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/11/gallery/BOOK.jpg" ><img src="http://teresaarroyo.com/media/posts/11/gallery/BOOK-thumbnail.jpg" alt="Girl with a book" width="240" height="240"></a>
 <figcaption class="gallery-description">Happy Book Day!</figcaption>
 </figure>
@@ -232,73 +289,6 @@
 <div class="gallery"   >
 <figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/8/gallery/PHOTO.JPG" ><img src="http://teresaarroyo.com/media/posts/8/gallery/PHOTO-thumbnail.JPG" alt="Five girls from my hometown" width="240" height="240"></a>
 <figcaption class="gallery-description">Smile for the camera!</figcaption>
-</figure>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Ravioli</title>
-        <author>
-            <name>Teresa Arroyo</name>
-        </author>
-        <link href="http://teresaarroyo.com/ravioli.html"/>
-        <id>http://teresaarroyo.com/ravioli.html</id>
-
-        <updated>2019-03-12T10:13:50+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="http://teresaarroyo.com/media/posts/7/RAVIOLI.JPG" alt="" />
-                    I guess goths enjoy their pasta as much as I do
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="http://teresaarroyo.com/media/posts/7/RAVIOLI.JPG" alt="" />
-                <div class="gallery"   >
-<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/7/gallery/RAVIOLI.JPG" ><img src="http://teresaarroyo.com/media/posts/7/gallery/RAVIOLI-thumbnail.JPG" alt="Ravioli" width="240" height="240"></a>
-<figcaption class="gallery-description">I guess goths enjoy their pasta as much as I do</figcaption>
-</figure>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Greco-Roman myths and gods [collection]</title>
-        <author>
-            <name>Teresa Arroyo</name>
-        </author>
-        <link href="http://teresaarroyo.com/greco-roman-myths-and-gods.html"/>
-        <id>http://teresaarroyo.com/greco-roman-myths-and-gods.html</id>
-
-        <updated>2019-03-20T16:48:08+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="http://teresaarroyo.com/media/posts/6/IMG_0734.JPG" alt="" />
-                    Athena - MinervaSafoApolloAphrodite - VenusDionysus - BacchusFabulinus
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="http://teresaarroyo.com/media/posts/6/IMG_0734.JPG" alt="" />
-                <div class="gallery"   >
-<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/6/gallery/ROMANGODS_Minerva.JPG" ><img src="http://teresaarroyo.com/media/posts/6/gallery/ROMANGODS_Minerva-thumbnail.JPG" alt="Athena - Minerva" width="240" height="240"></a>
-<figcaption class="gallery-description">Athena - Minerva</figcaption>
-</figure>
-<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/6/gallery/ROMANGODS_Safo.JPG" ><img src="http://teresaarroyo.com/media/posts/6/gallery/ROMANGODS_Safo-thumbnail.JPG" alt="Safo" width="240" height="240"></a>
-<figcaption class="gallery-description">Safo</figcaption>
-</figure>
-<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/6/gallery/ROMANGODS_Apollo.JPG" ><img src="http://teresaarroyo.com/media/posts/6/gallery/ROMANGODS_Apollo-thumbnail.JPG" alt="Apollo" width="240" height="240"></a>
-<figcaption class="gallery-description">Apollo</figcaption>
-</figure>
-<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/6/gallery/ROMANGODS_Venus.JPG" ><img src="http://teresaarroyo.com/media/posts/6/gallery/ROMANGODS_Venus-thumbnail.JPG" alt="Aphrodite - Venus" width="240" height="240"></a>
-<figcaption class="gallery-description">Aphrodite - Venus</figcaption>
-</figure>
-<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/6/gallery/ROMANGODS_Bacchus.JPG" ><img src="http://teresaarroyo.com/media/posts/6/gallery/ROMANGODS_Bacchus-thumbnail.JPG" alt="Dionysus - Bacchus" width="240" height="240"></a>
-<figcaption class="gallery-description">Dionysus - Bacchus</figcaption>
-</figure>
-<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/6/gallery/ROMANGODS_Fabulinus.JPG" ><img src="http://teresaarroyo.com/media/posts/6/gallery/ROMANGODS_Fabulinus-thumbnail.JPG" alt="Fabulinus" width="240" height="240"></a>
-<figcaption class="gallery-description">Fabulinus</figcaption>
 </figure>
 </div>
             ]]>

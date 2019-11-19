@@ -11,6 +11,51 @@
     },
     "items": [
         {
+            "id": "http://teresaarroyo.com/landscapes-collection-in-progress.html",
+            "url": "http://teresaarroyo.com/landscapes-collection-in-progress.html",
+            "title": "Landscapes [collection in progress]",
+            "summary": "European houses",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/19/gallery/LANDSCAPES_Houses.jpg\" ><img src=\"http://teresaarroyo.com/media/posts/19/gallery/LANDSCAPES_Houses-thumbnail.jpg\" alt=\"European houses\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">European houses</figcaption>\n</figure>\n</div>",
+            "image": "http://teresaarroyo.com/media/posts/19/LANDSCAPES_Houses_red.jpg",
+            "author": {
+                "name": "Teresa Arroyo"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-19T13:41:58+01:00",
+            "date_modified": "2019-11-19T13:41:58+01:00"
+        },
+        {
+            "id": "http://teresaarroyo.com/hello-earthlings.html",
+            "url": "http://teresaarroyo.com/hello-earthlings.html",
+            "title": "Hello, earthlings!",
+            "summary": "A just for fun sixties-sci-fi portraitAstronaut portrait",
+            "content_html": "A just for fun sixties-sci-fi portrait\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/18/gallery/SCIFI.jpg\" ><img src=\"http://teresaarroyo.com/media/posts/18/gallery/SCIFI-thumbnail.jpg\" alt=\"Astronaut portrait\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">Astronaut portrait</figcaption>\n</figure>\n</div>",
+            "image": "http://teresaarroyo.com/media/posts/18/SCIFI.jpg",
+            "author": {
+                "name": "Teresa Arroyo"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-19T13:35:12+01:00",
+            "date_modified": "2019-11-19T13:35:12+01:00"
+        },
+        {
+            "id": "http://teresaarroyo.com/watercolor-collection.html",
+            "url": "http://teresaarroyo.com/watercolor-collection.html",
+            "title": "Watercolor [collection]",
+            "summary": "Sometimes I also like to paint with traditional techniques!CatsDancersGirl",
+            "content_html": "<p>Sometimes I also like to paint with traditional techniques!</p>\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/17/gallery/WATERCOLOR_Cats.jpg\" ><img src=\"http://teresaarroyo.com/media/posts/17/gallery/WATERCOLOR_Cats-thumbnail.jpg\" alt=\"Cats\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">Cats</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/17/gallery/WATERCOLOR_Dancers.jpg\" ><img src=\"http://teresaarroyo.com/media/posts/17/gallery/WATERCOLOR_Dancers-thumbnail.jpg\" alt=\"Dancers\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">Dancers</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/17/gallery/WATERCOLOR_Girl.jpg\" ><img src=\"http://teresaarroyo.com/media/posts/17/gallery/WATERCOLOR_Girl-thumbnail.jpg\" alt=\"Girl\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">Girl</figcaption>\n</figure>\n</div>",
+            "image": "http://teresaarroyo.com/media/posts/17/WATERCOLOR_Cats.jpg",
+            "author": {
+                "name": "Teresa Arroyo"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-19T13:20:50+01:00",
+            "date_modified": "2019-11-19T13:24:57+01:00"
+        },
+        {
             "id": "http://teresaarroyo.com/airs-and-graces.html",
             "url": "http://teresaarroyo.com/airs-and-graces.html",
             "title": "Airs and Graces",
@@ -38,7 +83,7 @@
             "tags": [
             ],
             "date_published": "2019-09-18T10:59:20+02:00",
-            "date_modified": "2019-09-18T10:59:46+02:00"
+            "date_modified": "2019-11-19T13:25:05+01:00"
         },
         {
             "id": "http://teresaarroyo.com/a-little-band.html",
@@ -68,29 +113,14 @@
             "tags": [
             ],
             "date_published": "2019-06-25T19:19:32+02:00",
-            "date_modified": "2019-06-25T19:19:32+02:00"
-        },
-        {
-            "id": "http://teresaarroyo.com/instagram-prompts-collection.html",
-            "url": "http://teresaarroyo.com/instagram-prompts-collection.html",
-            "title": "Instagram Prompts [collection]",
-            "summary": "I'm currently working on this collection. I asked my Instagram friends to propose&hellip;",
-            "content_html": "I'm currently working on this collection. I asked my Instagram friends to propose topics to draw and this is the result.\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/12/gallery/PROMPT_Elf.jpg\" ><img src=\"http://teresaarroyo.com/media/posts/12/gallery/PROMPT_Elf-thumbnail.jpg\" alt=\"Elf enchanting a dagger\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">Elf enchanting a dagger</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/12/gallery/PROMPT_Sunflowers.jpg\" ><img src=\"http://teresaarroyo.com/media/posts/12/gallery/PROMPT_Sunflowers-thumbnail.jpg\" alt=\"Funny scary skeleton\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">Funny scary skeleton</figcaption>\n</figure>\n</div>",
-            "image": "http://teresaarroyo.com/media/posts/12/PROMPT_Elf.jpg",
-            "author": {
-                "name": "Teresa Arroyo"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-06-10T17:08:06+02:00",
-            "date_modified": "2019-06-10T17:08:44+02:00"
+            "date_modified": "2019-11-19T13:22:17+01:00"
         },
         {
             "id": "http://teresaarroyo.com/book-day.html",
             "url": "http://teresaarroyo.com/book-day.html",
             "title": "Book Day",
-            "summary": "Happy Book Day!",
-            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/11/gallery/BOOK.jpg\" ><img src=\"http://teresaarroyo.com/media/posts/11/gallery/BOOK-thumbnail.jpg\" alt=\"Girl with a book\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">Happy Book Day!</figcaption>\n</figure>\n</div>",
+            "summary": "Illustration for the day after the book day.Happy Book Day!",
+            "content_html": "<p>Illustration for the day after the book day.</p>\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/11/gallery/BOOK.jpg\" ><img src=\"http://teresaarroyo.com/media/posts/11/gallery/BOOK-thumbnail.jpg\" alt=\"Girl with a book\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">Happy Book Day!</figcaption>\n</figure>\n</div>",
             "image": "http://teresaarroyo.com/media/posts/11/BOOK.jpg",
             "author": {
                 "name": "Teresa Arroyo"
@@ -98,7 +128,7 @@
             "tags": [
             ],
             "date_published": "2019-05-07T11:02:16+02:00",
-            "date_modified": "2019-05-07T11:02:16+02:00"
+            "date_modified": "2019-11-19T13:23:41+01:00"
         },
         {
             "id": "http://teresaarroyo.com/colorful-compositions-collection.html",
@@ -129,36 +159,6 @@
             ],
             "date_published": "2019-03-26T09:38:36+01:00",
             "date_modified": "2019-03-26T09:38:36+01:00"
-        },
-        {
-            "id": "http://teresaarroyo.com/ravioli.html",
-            "url": "http://teresaarroyo.com/ravioli.html",
-            "title": "Ravioli",
-            "summary": "I guess goths enjoy their pasta as much as I do",
-            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/7/gallery/RAVIOLI.JPG\" ><img src=\"http://teresaarroyo.com/media/posts/7/gallery/RAVIOLI-thumbnail.JPG\" alt=\"Ravioli\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">I guess goths enjoy their pasta as much as I do</figcaption>\n</figure>\n</div>",
-            "image": "http://teresaarroyo.com/media/posts/7/RAVIOLI.JPG",
-            "author": {
-                "name": "Teresa Arroyo"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-03-12T10:12:16+01:00",
-            "date_modified": "2019-03-12T10:13:50+01:00"
-        },
-        {
-            "id": "http://teresaarroyo.com/greco-roman-myths-and-gods.html",
-            "url": "http://teresaarroyo.com/greco-roman-myths-and-gods.html",
-            "title": "Greco-Roman myths and gods [collection]",
-            "summary": "Athena - MinervaSafoApolloAphrodite - VenusDionysus - BacchusFabulinus",
-            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/6/gallery/ROMANGODS_Minerva.JPG\" ><img src=\"http://teresaarroyo.com/media/posts/6/gallery/ROMANGODS_Minerva-thumbnail.JPG\" alt=\"Athena - Minerva\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">Athena - Minerva</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/6/gallery/ROMANGODS_Safo.JPG\" ><img src=\"http://teresaarroyo.com/media/posts/6/gallery/ROMANGODS_Safo-thumbnail.JPG\" alt=\"Safo\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">Safo</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/6/gallery/ROMANGODS_Apollo.JPG\" ><img src=\"http://teresaarroyo.com/media/posts/6/gallery/ROMANGODS_Apollo-thumbnail.JPG\" alt=\"Apollo\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">Apollo</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/6/gallery/ROMANGODS_Venus.JPG\" ><img src=\"http://teresaarroyo.com/media/posts/6/gallery/ROMANGODS_Venus-thumbnail.JPG\" alt=\"Aphrodite - Venus\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">Aphrodite - Venus</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/6/gallery/ROMANGODS_Bacchus.JPG\" ><img src=\"http://teresaarroyo.com/media/posts/6/gallery/ROMANGODS_Bacchus-thumbnail.JPG\" alt=\"Dionysus - Bacchus\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">Dionysus - Bacchus</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"http://teresaarroyo.com/media/posts/6/gallery/ROMANGODS_Fabulinus.JPG\" ><img src=\"http://teresaarroyo.com/media/posts/6/gallery/ROMANGODS_Fabulinus-thumbnail.JPG\" alt=\"Fabulinus\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">Fabulinus</figcaption>\n</figure>\n</div>",
-            "image": "http://teresaarroyo.com/media/posts/6/IMG_0734.JPG",
-            "author": {
-                "name": "Teresa Arroyo"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-01-28T12:17:11+01:00",
-            "date_modified": "2019-03-20T16:48:08+01:00"
         }
     ]
 }
