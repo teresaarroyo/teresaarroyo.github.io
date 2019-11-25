@@ -3,7 +3,7 @@
     <title>Teresa Arroyo</title>
     <link href="http://teresaarroyo.com/feed.xml" rel="self" />
     <link href="http://teresaarroyo.com" />
-    <updated>2019-11-19T13:50:20+01:00</updated>
+    <updated>2019-11-25T18:30:08+01:00</updated>
     <author>
         <name>Teresa Arroyo</name>
     </author>
@@ -90,33 +90,6 @@
 </figure>
 <figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/17/gallery/WATERCOLOR_Girl.jpg" ><img src="http://teresaarroyo.com/media/posts/17/gallery/WATERCOLOR_Girl-thumbnail.jpg" alt="Girl" width="240" height="240"></a>
 <figcaption class="gallery-description">Girl</figcaption>
-</figure>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Airs and Graces</title>
-        <author>
-            <name>Teresa Arroyo</name>
-        </author>
-        <link href="http://teresaarroyo.com/airs-and-graces.html"/>
-        <id>http://teresaarroyo.com/airs-and-graces.html</id>
-
-        <updated>2019-09-30T16:37:43+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="http://teresaarroyo.com/media/posts/16/LADIES.jpg" alt="" />
-                    Characters from a book I read some time ago.Airs and Graces
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="http://teresaarroyo.com/media/posts/16/LADIES.jpg" alt="" />
-                <p>Characters from a book I read some time ago.</p>
-<div class="gallery"   >
-<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/16/gallery/LADIES.jpg" ><img src="http://teresaarroyo.com/media/posts/16/gallery/LADIES-thumbnail.jpg" alt="Three ladies" width="240" height="240"></a>
-<figcaption class="gallery-description">Airs and Graces</figcaption>
 </figure>
 </div>
             ]]>
@@ -289,6 +262,32 @@
 <div class="gallery"   >
 <figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/8/gallery/PHOTO.JPG" ><img src="http://teresaarroyo.com/media/posts/8/gallery/PHOTO-thumbnail.JPG" alt="Five girls from my hometown" width="240" height="240"></a>
 <figcaption class="gallery-description">Smile for the camera!</figcaption>
+</figure>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Ravioli</title>
+        <author>
+            <name>Teresa Arroyo</name>
+        </author>
+        <link href="http://teresaarroyo.com/ravioli.html"/>
+        <id>http://teresaarroyo.com/ravioli.html</id>
+
+        <updated>2019-03-12T10:13:50+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="http://teresaarroyo.com/media/posts/7/RAVIOLI.JPG" alt="" />
+                    I guess goths enjoy their pasta as much as I do
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://teresaarroyo.com/media/posts/7/RAVIOLI.JPG" alt="" />
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/7/gallery/RAVIOLI.JPG" ><img src="http://teresaarroyo.com/media/posts/7/gallery/RAVIOLI-thumbnail.JPG" alt="Ravioli" width="240" height="240"></a>
+<figcaption class="gallery-description">I guess goths enjoy their pasta as much as I do</figcaption>
 </figure>
 </div>
             ]]>
