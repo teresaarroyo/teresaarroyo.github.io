@@ -3,12 +3,42 @@
     <title>Teresa Arroyo</title>
     <link href="http://teresaarroyo.com/feed.xml" rel="self" />
     <link href="http://teresaarroyo.com" />
-    <updated>2019-11-25T18:30:08+01:00</updated>
+    <updated>2019-12-19T13:17:30+01:00</updated>
     <author>
         <name>Teresa Arroyo</name>
     </author>
     <id>http://teresaarroyo.com</id>
 
+    <entry>
+        <title>Early twentieth century [collection in progress]</title>
+        <author>
+            <name>Teresa Arroyo</name>
+        </author>
+        <link href="http://teresaarroyo.com/early-twentieth-century-collection-in-progress.html"/>
+        <id>http://teresaarroyo.com/early-twentieth-century-collection-in-progress.html</id>
+
+        <updated>2019-12-19T13:15:58+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="http://teresaarroyo.com/media/posts/20/XXCENTURY_Psychic.jpg" alt="A psychic and her cats" />
+                    Drawings based on the aesthetics of the early twentieth century.A PsychicDancers!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://teresaarroyo.com/media/posts/20/XXCENTURY_Psychic.jpg" alt="A psychic and her cats" />
+                Drawings based on the aesthetics of the early twentieth century.
+<div class="gallery"   >
+<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/20/gallery/XXCENTURY_Psychic.jpg" ><img src="http://teresaarroyo.com/media/posts/20/gallery/XXCENTURY_Psychic-thumbnail.jpg" alt="A psychic and her cats" width="240" height="240"></a>
+<figcaption class="gallery-description">A Psychic</figcaption>
+</figure>
+<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/20/gallery/XXCENTURY_Dancers.jpg" ><img src="http://teresaarroyo.com/media/posts/20/gallery/XXCENTURY_Dancers-thumbnail.jpg" alt="Exotic dancers" width="240" height="240"></a>
+<figcaption class="gallery-description">Dancers!</figcaption>
+</figure>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Landscapes [collection in progress]</title>
         <author>
@@ -262,32 +292,6 @@
 <div class="gallery"   >
 <figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/8/gallery/PHOTO.JPG" ><img src="http://teresaarroyo.com/media/posts/8/gallery/PHOTO-thumbnail.JPG" alt="Five girls from my hometown" width="240" height="240"></a>
 <figcaption class="gallery-description">Smile for the camera!</figcaption>
-</figure>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Ravioli</title>
-        <author>
-            <name>Teresa Arroyo</name>
-        </author>
-        <link href="http://teresaarroyo.com/ravioli.html"/>
-        <id>http://teresaarroyo.com/ravioli.html</id>
-
-        <updated>2019-03-12T10:13:50+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="http://teresaarroyo.com/media/posts/7/RAVIOLI.JPG" alt="" />
-                    I guess goths enjoy their pasta as much as I do
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="http://teresaarroyo.com/media/posts/7/RAVIOLI.JPG" alt="" />
-                <div class="gallery"   >
-<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/7/gallery/RAVIOLI.JPG" ><img src="http://teresaarroyo.com/media/posts/7/gallery/RAVIOLI-thumbnail.JPG" alt="Ravioli" width="240" height="240"></a>
-<figcaption class="gallery-description">I guess goths enjoy their pasta as much as I do</figcaption>
 </figure>
 </div>
             ]]>
