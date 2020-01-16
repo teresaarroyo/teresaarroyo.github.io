@@ -3,7 +3,7 @@
     <title>Teresa Arroyo</title>
     <link href="http://teresaarroyo.com/feed.xml" rel="self" />
     <link href="http://teresaarroyo.com" />
-    <updated>2019-12-19T13:17:30+01:00</updated>
+    <updated>2020-01-16T13:15:23+01:00</updated>
     <author>
         <name>Teresa Arroyo</name>
     </author>
@@ -17,11 +17,11 @@
         <link href="http://teresaarroyo.com/early-twentieth-century-collection-in-progress.html"/>
         <id>http://teresaarroyo.com/early-twentieth-century-collection-in-progress.html</id>
 
-        <updated>2019-12-19T13:15:58+01:00</updated>
+        <updated>2020-01-16T13:15:08+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="http://teresaarroyo.com/media/posts/20/XXCENTURY_Psychic.jpg" alt="A psychic and her cats" />
-                    Drawings based on the aesthetics of the early twentieth century.A PsychicDancers!
+                    Drawings based on the aesthetics of the early twentieth century.A PsychicDancers!More dancers!
                 ]]>
             </summary>
         <content type="html">
@@ -34,6 +34,9 @@
 </figure>
 <figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/20/gallery/XXCENTURY_Dancers.jpg" ><img src="http://teresaarroyo.com/media/posts/20/gallery/XXCENTURY_Dancers-thumbnail.jpg" alt="Exotic dancers" width="240" height="240"></a>
 <figcaption class="gallery-description">Dancers!</figcaption>
+</figure>
+<figure class="gallery__item"><a href="http://teresaarroyo.com/media/posts/20/gallery/XXCENTURY_Dancers_II.jpg" ><img src="http://teresaarroyo.com/media/posts/20/gallery/XXCENTURY_Dancers_II-thumbnail.jpg" alt="Exotic dancers II" width="240" height="240"></a>
+<figcaption class="gallery-description">More dancers!</figcaption>
 </figure>
 </div>
             ]]>
