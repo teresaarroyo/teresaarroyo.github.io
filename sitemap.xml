@@ -1,50 +1,319 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://teresaarroyo.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
 <loc>http://teresaarroyo.com/</loc>
 </url>
 <url>
 <loc>http://teresaarroyo.com/a-little-band.html</loc>
+<lastmod>2019-09-05T16:53:58+02:00</lastmod>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\14/CHILDREN_red.jpg</image:loc>
+<image:title><![CDATA[Some children playing instruments]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\14/gallery/CHILDREN-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Some children playing instruments]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>http://teresaarroyo.com/aboutandcontact.html</loc>
+<lastmod>2019-09-17T10:47:59+02:00</lastmod>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\3/EEmE01FXsAYJYYF.jpg</image:loc>
+<image:title><![CDATA[me]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>http://teresaarroyo.com/book-day.html</loc>
+<lastmod>2019-11-19T13:23:41+01:00</lastmod>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\11/BOOK.jpg</image:loc>
+<image:title><![CDATA[Girl with a book]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\11/gallery/BOOK-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Girl with a book]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>http://teresaarroyo.com/colorful-compositions-collection.html</loc>
+<lastmod>2019-05-14T15:54:43+02:00</lastmod>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\10/COLORFUL_Flowers.jpg</image:loc>
+<image:title><![CDATA[Colorful compositions]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\10/gallery/COLORFUL_Flowers-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Flowers and bee]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\10/gallery/COLORFUL_Fishes-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Fishes and jellyfishes]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\10/gallery/COLORFUL_Island-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Island with trees and ducks]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>http://teresaarroyo.com/early-twentieth-century-collection-in-progress.html</loc>
+<lastmod>2020-01-16T13:15:08+01:00</lastmod>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\20/XXCENTURY_Psychic.jpg</image:loc>
+<image:title><![CDATA[A psychic and her cats]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\20/gallery/XXCENTURY_Psychic-thumbnail.jpg</image:loc>
+<image:title><![CDATA[A psychic and her cats]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\20/gallery/XXCENTURY_Dancers-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Exotic dancers]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\20/gallery/XXCENTURY_Dancers_II-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Exotic dancers II]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>http://teresaarroyo.com/gallery.html</loc>
+<lastmod>2020-03-18T08:47:13+01:00</lastmod>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\21/gallery/XXCENTURY_Psychic-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\21/gallery/LANDSCAPES_Countryside-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\21/gallery/CHILDREN-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\21/gallery/RAIN-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\21/gallery/FLOWERS-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\21/gallery/XXCENTURY_Dancers-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\21/gallery/SCIFI-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\21/gallery/LANDSCAPES_Houses-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\21/gallery/XXCENTURY_Dancers_II-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\21/gallery/PRINCIPIA_Carmina_Virgili-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>http://teresaarroyo.com/greco-roman-myths-and-gods.html</loc>
+<lastmod>2019-03-20T16:48:08+01:00</lastmod>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\6/IMG_0734.JPG</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\6/gallery/ROMANGODS_Minerva-thumbnail.JPG</image:loc>
+<image:title><![CDATA[Athena - Minerva]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\6/gallery/ROMANGODS_Safo-thumbnail.JPG</image:loc>
+<image:title><![CDATA[Safo]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\6/gallery/ROMANGODS_Apollo-thumbnail.JPG</image:loc>
+<image:title><![CDATA[Apollo]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\6/gallery/ROMANGODS_Venus-thumbnail.JPG</image:loc>
+<image:title><![CDATA[Aphrodite - Venus]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\6/gallery/ROMANGODS_Bacchus-thumbnail.JPG</image:loc>
+<image:title><![CDATA[Dionysus - Bacchus]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\6/gallery/ROMANGODS_Fabulinus-thumbnail.JPG</image:loc>
+<image:title><![CDATA[Fabulinus]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>http://teresaarroyo.com/hello-earthlings.html</loc>
+<lastmod>2019-11-19T13:35:12+01:00</lastmod>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\18/SCIFI.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\18/gallery/SCIFI-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Astronaut portrait]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>http://teresaarroyo.com/landscapes-collection-in-progress.html</loc>
+<lastmod>2019-11-19T13:41:58+01:00</lastmod>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\19/LANDSCAPES_Houses_red.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\19/gallery/LANDSCAPES_Houses-thumbnail.jpg</image:loc>
+<image:title><![CDATA[European houses]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>http://teresaarroyo.com/paco-the-cat.html</loc>
+<lastmod>2019-03-12T10:07:58+01:00</lastmod>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\4/IMG_0704.JPG</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\4/gallery/PACO_Standing-thumbnail.JPG</image:loc>
+<image:title><![CDATA[So this is Paco]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\4/gallery/PACO_Walking-thumbnail.JPG</image:loc>
+<image:title><![CDATA[Paco walking]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\4/gallery/PACO_Yoga-thumbnail.JPG</image:loc>
+<image:title><![CDATA[Paco cat yoga]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>http://teresaarroyo.com/rainy-day.html</loc>
+<lastmod>2019-11-19T13:25:05+01:00</lastmod>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\15/RAIN.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\15/gallery/RAIN-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Rainy day - Self portrait]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>http://teresaarroyo.com/ravioli.html</loc>
+<lastmod>2019-03-12T10:13:50+01:00</lastmod>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\7/RAVIOLI.JPG</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\7/gallery/RAVIOLI-thumbnail.JPG</image:loc>
+<image:title><![CDATA[Ravioli]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>http://teresaarroyo.com/smile-for-the-camera.html</loc>
+<lastmod>2019-03-26T09:38:36+01:00</lastmod>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\8/PHOTO.JPG</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\8/gallery/PHOTO-thumbnail.JPG</image:loc>
+<image:title><![CDATA[Five girls from my hometown]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>http://teresaarroyo.com/the-tale-of-ohumonoth-and-buh.html</loc>
+<lastmod>2019-03-14T10:00:58+01:00</lastmod>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\5/IMG_0611.JPG</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\5/gallery/OHUMONOTH_Characters-thumbnail.JPG</image:loc>
+<image:title><![CDATA[First image of Ohumonoth and Buh]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\5/gallery/OHUMONOTH_Sleeping-thumbnail.JPG</image:loc>
+<image:title><![CDATA[Ohumonoth and Buh having a rest]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\5/gallery/OHUMONOTH_Yawn-thumbnail.JPG</image:loc>
+<image:title><![CDATA[Ohumonoth yawning]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\5/gallery/OHUMONOTH_Bath-thumbnail.JPG</image:loc>
+<image:title><![CDATA[Buh having a bath]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\5/gallery/OHUMONOTH_Lunch-thumbnail.JPG</image:loc>
+<image:title><![CDATA[Ohumonoth and Buh having a soup]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\5/gallery/OHUMONOTH_Swim-thumbnail.JPG</image:loc>
+<image:title><![CDATA[Ohumonoth swimming at the sea]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\5/gallery/OHUMONOTH_Clock-thumbnail.JPG</image:loc>
+<image:title><![CDATA[Buh on a clock]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\5/gallery/OHUMONOTH_Walk-thumbnail.JPG</image:loc>
+<image:title><![CDATA[Ohumonoth taking a walk]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\5/gallery/OHUMONOTH_Work-thumbnail.JPG</image:loc>
+<image:title><![CDATA[Ohumonoth at work]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>http://teresaarroyo.com/the-white-cat-collection.html</loc>
+<lastmod>2019-11-19T13:22:17+01:00</lastmod>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\13/WHITECAT_Rug.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\13/gallery/WHITECAT_Rug-thumbnail.jpg</image:loc>
+<image:title><![CDATA[The white cat on a rug]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\13/gallery/WHITECAT_Wallpaper-thumbnail.jpg</image:loc>
+<image:title><![CDATA[The white cat yawning]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\13/gallery/WHITECAT_Curtain-thumbnail.jpg</image:loc>
+<image:title><![CDATA[The white cat climbing a curtain]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>http://teresaarroyo.com/watercolor-collection.html</loc>
+<lastmod>2019-11-19T13:24:57+01:00</lastmod>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\17/WATERCOLOR_Cats.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\17/gallery/WATERCOLOR_Cats-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Cats]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\17/gallery/WATERCOLOR_Dancers-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Dancers]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\17/gallery/WATERCOLOR_Girl-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Girl]]></image:title>
+</image:image>
 </url>
 </urlset>
