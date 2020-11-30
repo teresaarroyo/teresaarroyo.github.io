@@ -6,7 +6,7 @@
 </url>
 <url>
 <loc>http://teresaarroyo.com/portfolio.html</loc>
-<lastmod>2020-11-11T12:03:07+01:00</lastmod>
+<lastmod>2020-11-30T19:00:31+01:00</lastmod>
 <image:image>
 <image:loc>http://teresaarroyo.com/media\posts\22/gallery/FARM-thumbnail.jpg</image:loc>
 <image:title><![CDATA[Farm]]></image:title>
@@ -20,12 +20,16 @@
 <image:title><![CDATA[Fisherman]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://teresaarroyo.com/media\posts\22/gallery/BIRBS-thumbnail.jpg</image:loc>
-<image:title><![CDATA[Birds]]></image:title>
+<image:loc>http://teresaarroyo.com/media\posts\22/gallery/GNOME-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Gnome]]></image:title>
 </image:image>
 <image:image>
 <image:loc>http://teresaarroyo.com/media\posts\22/gallery/XXCENTURY_Ladies-thumbnail.JPG</image:loc>
 <image:title><![CDATA[Glamorous ladies]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\22/gallery/BIRBS-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Birds]]></image:title>
 </image:image>
 <image:image>
 <image:loc>http://teresaarroyo.com/media\posts\22/gallery/MP_CONTEST_Bread-thumbnail.jpg</image:loc>
@@ -74,10 +78,6 @@
 <image:image>
 <image:loc>http://teresaarroyo.com/media\posts\22/gallery/LANDSCAPES_Houses-thumbnail.jpg</image:loc>
 <image:title><![CDATA[Urban landscape]]></image:title>
-</image:image>
-<image:image>
-<image:loc>http://teresaarroyo.com/media\posts\22/gallery/FLOWERS-thumbnail.jpg</image:loc>
-<image:title><![CDATA[Flowers]]></image:title>
 </image:image>
 </url>
 </urlset>
