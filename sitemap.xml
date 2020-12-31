@@ -6,7 +6,19 @@
 </url>
 <url>
 <loc>http://teresaarroyo.com/portfolio.html</loc>
-<lastmod>2020-12-05T11:10:09+01:00</lastmod>
+<lastmod>2020-12-31T11:14:37+01:00</lastmod>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\22/gallery/SNOW-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\22/gallery/DOOR-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\22/gallery/GNOME-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Gnome]]></image:title>
+</image:image>
 <image:image>
 <image:loc>http://teresaarroyo.com/media\posts\22/gallery/FARM-thumbnail.jpg</image:loc>
 <image:title><![CDATA[Farm]]></image:title>
@@ -18,14 +30,6 @@
 <image:image>
 <image:loc>http://teresaarroyo.com/media\posts\22/gallery/FISHERMAN-thumbnail.jpg</image:loc>
 <image:title><![CDATA[Fisherman]]></image:title>
-</image:image>
-<image:image>
-<image:loc>http://teresaarroyo.com/media\posts\22/gallery/GNOME-thumbnail.jpg</image:loc>
-<image:title><![CDATA[Gnome]]></image:title>
-</image:image>
-<image:image>
-<image:loc>http://teresaarroyo.com/media\posts\22/gallery/DOOR-thumbnail.jpg</image:loc>
-<image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
 <image:loc>http://teresaarroyo.com/media\posts\22/gallery/BIRBS-thumbnail.jpg</image:loc>
@@ -74,10 +78,6 @@
 <image:image>
 <image:loc>http://teresaarroyo.com/media\posts\22/gallery/SCIFI-thumbnail.jpg</image:loc>
 <image:title><![CDATA[Sixties sci-fi]]></image:title>
-</image:image>
-<image:image>
-<image:loc>http://teresaarroyo.com/media\posts\22/gallery/CANDY-thumbnail.jpg</image:loc>
-<image:title><![CDATA[Cotton candy]]></image:title>
 </image:image>
 <image:image>
 <image:loc>http://teresaarroyo.com/media\posts\22/gallery/LANDSCAPES_Houses-thumbnail.jpg</image:loc>
