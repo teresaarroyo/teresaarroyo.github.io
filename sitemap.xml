@@ -6,14 +6,18 @@
 </url>
 <url>
 <loc>http://teresaarroyo.com/portfolio.html</loc>
-<lastmod>2020-12-31T11:14:37+01:00</lastmod>
+<lastmod>2021-03-15T15:15:41+01:00</lastmod>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\22/gallery/WEEKEND-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Weekend]]></image:title>
+</image:image>
 <image:image>
 <image:loc>http://teresaarroyo.com/media\posts\22/gallery/SNOW-thumbnail.jpg</image:loc>
-<image:title><![CDATA[]]></image:title>
+<image:title><![CDATA[Tree]]></image:title>
 </image:image>
 <image:image>
 <image:loc>http://teresaarroyo.com/media\posts\22/gallery/DOOR-thumbnail.jpg</image:loc>
-<image:title><![CDATA[]]></image:title>
+<image:title><![CDATA[Door]]></image:title>
 </image:image>
 <image:image>
 <image:loc>http://teresaarroyo.com/media\posts\22/gallery/GNOME-thumbnail.jpg</image:loc>
@@ -52,10 +56,6 @@
 <image:title><![CDATA[An upside-down tea time]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://teresaarroyo.com/media\posts\22/gallery/MARYPOPPINS_Cover-thumbnail.jpg</image:loc>
-<image:title><![CDATA[Cover]]></image:title>
-</image:image>
-<image:image>
 <image:loc>http://teresaarroyo.com/media\posts\22/gallery/LANDSCAPES_Countryside-thumbnail.jpg</image:loc>
 <image:title><![CDATA[Yellow landscape]]></image:title>
 </image:image>
@@ -72,16 +72,12 @@
 <image:title><![CDATA[The mysterious clairvoyant]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://teresaarroyo.com/media\posts\22/gallery/CHILDREN-thumbnail.jpg</image:loc>
-<image:title><![CDATA[Let's sing!]]></image:title>
+<image:loc>http://teresaarroyo.com/media\posts\22/gallery/LANDSCAPES_Houses-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Urban landscape]]></image:title>
 </image:image>
 <image:image>
 <image:loc>http://teresaarroyo.com/media\posts\22/gallery/SCIFI-thumbnail.jpg</image:loc>
 <image:title><![CDATA[Sixties sci-fi]]></image:title>
-</image:image>
-<image:image>
-<image:loc>http://teresaarroyo.com/media\posts\22/gallery/LANDSCAPES_Houses-thumbnail.jpg</image:loc>
-<image:title><![CDATA[Urban landscape]]></image:title>
 </image:image>
 </url>
 </urlset>
