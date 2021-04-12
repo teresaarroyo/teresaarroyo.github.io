@@ -6,7 +6,11 @@
 </url>
 <url>
 <loc>http://teresaarroyo.com/portfolio.html</loc>
-<lastmod>2021-03-15T15:15:41+01:00</lastmod>
+<lastmod>2021-04-12T10:06:06+02:00</lastmod>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\22/gallery/BLANKET-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Blanket]]></image:title>
+</image:image>
 <image:image>
 <image:loc>http://teresaarroyo.com/media\posts\22/gallery/WEEKEND-thumbnail.jpg</image:loc>
 <image:title><![CDATA[Weekend]]></image:title>
@@ -16,12 +20,12 @@
 <image:title><![CDATA[Tree]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://teresaarroyo.com/media\posts\22/gallery/DOOR-thumbnail.jpg</image:loc>
-<image:title><![CDATA[Door]]></image:title>
-</image:image>
-<image:image>
 <image:loc>http://teresaarroyo.com/media\posts\22/gallery/GNOME-thumbnail.jpg</image:loc>
 <image:title><![CDATA[Gnome]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://teresaarroyo.com/media\posts\22/gallery/DOOR-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Door]]></image:title>
 </image:image>
 <image:image>
 <image:loc>http://teresaarroyo.com/media\posts\22/gallery/FARM-thumbnail.jpg</image:loc>
@@ -62,10 +66,6 @@
 <image:image>
 <image:loc>http://teresaarroyo.com/media\posts\22/gallery/RAIN-thumbnail.jpg</image:loc>
 <image:title><![CDATA[Rainy day]]></image:title>
-</image:image>
-<image:image>
-<image:loc>http://teresaarroyo.com/media\posts\22/gallery/XXCENTURY_Dancers-thumbnail.jpg</image:loc>
-<image:title><![CDATA[Exotic dancers]]></image:title>
 </image:image>
 <image:image>
 <image:loc>http://teresaarroyo.com/media\posts\22/gallery/XXCENTURY_Psychic-thumbnail.jpg</image:loc>
