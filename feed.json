@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Teresa Arroyo",
+    "description": "",
+    "home_page_url": "https://teresaarroyo.com",
+    "feed_url": "https://teresaarroyo.com/feed.json",
+    "user_comment": "",
+    "icon": "https://teresaarroyo.com/media/website/IMG_0799_93.jpg",
+    "author": {
+        "name": "Teresa Arroyo"
+    },
+    "items": [
+    ]
+}
