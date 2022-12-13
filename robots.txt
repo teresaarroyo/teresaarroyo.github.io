@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://teresaarroyo.com/sitemap.xml
