@@ -3,14 +3,42 @@
     <title>Teresa Arroyo</title>
     <link href="https://teresaarroyo.com/feed.xml" rel="self" />
     <link href="https://teresaarroyo.com" />
-    <updated>2023-01-26T12:51:19+01:00</updated>
+    <updated>2023-01-30T12:53:11+01:00</updated>
     <author>
         <name>Teresa Arroyo</name>
     </author>
     <id>https://teresaarroyo.com</id>
 
     <entry>
-        <title>Traditional Art</title>
+        <title>Pencil Drawings</title>
+        <author>
+            <name>Teresa Arroyo</name>
+        </author>
+        <link href="https://teresaarroyo.com/pencil.html"/>
+        <id>https://teresaarroyo.com/pencil.html</id>
+        <media:content url="https://teresaarroyo.com/media/posts/24/PENCIL_CAT_1.jpg" medium="image" />
+
+        <updated>2023-01-30T12:53:11+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://teresaarroyo.com/media/posts/24/PENCIL_CAT_1.jpg" alt="" />
+                    In progress. Portraits of people and pets. Pastel pencils on kraft paper.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://teresaarroyo.com/media/posts/24/PENCIL_CAT_1.jpg" class="type:primaryImage" alt="" /></p>
+                <p class="align-center">In progress. Portraits of people and pets. Pastel pencils on kraft paper.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://teresaarroyo.com/media/posts/24/gallery/PENCIL_CAT_1.jpg" data-size="1000x1000"><img loading="lazy" src="https://teresaarroyo.com/media/posts/24/gallery/PENCIL_CAT_1-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://teresaarroyo.com/media/posts/24/gallery/PENCIL_CAT_2.jpg" data-size="1000x1000"><img loading="lazy" src="https://teresaarroyo.com/media/posts/24/gallery/PENCIL_CAT_2-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://teresaarroyo.com/media/posts/24/gallery/PENCIL_CAT_3.jpg" data-size="1000x1000"><img loading="lazy" src="https://teresaarroyo.com/media/posts/24/gallery/PENCIL_CAT_3-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Acrylic Paintings</title>
         <author>
             <name>Teresa Arroyo</name>
         </author>
@@ -18,17 +46,17 @@
         <id>https://teresaarroyo.com/traditional.html</id>
         <media:content url="https://teresaarroyo.com/media/posts/23/NOV_SOMBRA.jpg" medium="image" />
 
-        <updated>2023-01-26T12:51:19+01:00</updated>
+        <updated>2023-01-30T12:52:06+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://teresaarroyo.com/media/posts/23/NOV_SOMBRA.jpg" alt="" />
-                    Traditional paintings and drawings for novel covers and press articles
+                    Acrylic colorful paintings for novel covers and press articles
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://teresaarroyo.com/media/posts/23/NOV_SOMBRA.jpg" class="type:primaryImage" alt="" /></p>
-                <p class="align-center">Traditional paintings and drawings for novel covers and press articles</p>
+                <p class="align-center">Acrylic colorful paintings for novel covers and press articles</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://teresaarroyo.com/media/posts/23/gallery/NOV_SOMBRA.jpg" data-size="816x1000"><img loading="lazy" src="https://teresaarroyo.com/media/posts/23/gallery/NOV_SOMBRA-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
 <figure class="gallery__item"><a href="https://teresaarroyo.com/media/posts/23/gallery/tree.jpg" data-size="2082x2578"><img loading="lazy" src="https://teresaarroyo.com/media/posts/23/gallery/tree-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
@@ -41,7 +69,7 @@
         </content>
     </entry>
     <entry>
-        <title>Digital art</title>
+        <title>Digital art for kidlit</title>
         <author>
             <name>Teresa Arroyo</name>
         </author>
@@ -49,7 +77,7 @@
         <id>https://teresaarroyo.com/portfolio.html</id>
         <media:content url="https://teresaarroyo.com/media/posts/22/BLANKET.jpg" medium="image" />
 
-        <updated>2023-01-26T12:48:01+01:00</updated>
+        <updated>2023-01-30T12:52:18+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://teresaarroyo.com/media/posts/22/BLANKET.jpg" alt="" />
